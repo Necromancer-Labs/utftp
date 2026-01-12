@@ -1,0 +1,19 @@
+# Build artifacts
+obj/
+utftp
+utftp-debug
+utftp-static
+*.o
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+
+# Test files
+test_files/
