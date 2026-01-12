@@ -41,7 +41,7 @@ Options:
   -t, --timeout SEC   Timeout in seconds (default: 30)
   -d, --debug         Enable debug logging
   -q, --quiet         Quiet mode (critical errors only)
-  -h, --help          Show this
+  -h, --help          Show this help
 ```
 
 ## Features
@@ -50,7 +50,6 @@ Options:
 - **RFC Compliant** - Full implementation of TFTP standards (see below)
 - **Secure** - Path traversal protection prevents directory escape attacks
 - **Beautiful Logging** - Color-coded output with transfer speeds and file sizes
-- **Portable** - 
 
 ## Download latest release
 
